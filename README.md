@@ -1,5 +1,10 @@
 # Techack1
 
+### *NOTE* 
+I will design the 3D model for the project AFTER I receive the device as many sources of sizing of the parts are not clear, and some sources conflict with each other. I have 3D printed a Calpier so that I can measure the sizes:
+<img width="300" height="179" alt="image" src="https://github.com/user-attachments/assets/24229ee5-06c7-4b32-a6a0-ba9ada6166d8" />
+
+
 ### Purpose:
 It is a portable pen-testing device; it has a CC1101 module with 433 MHz, Wi-Fi, Bluetooth, and USB HID functionality. It is meant to be super small and a multi-tool for geeks.
 ### Features:
