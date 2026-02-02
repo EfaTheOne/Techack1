@@ -38,7 +38,7 @@ It is a portable pen-testing device; it has a CC1101 module with 433 MHz, Wi-Fi,
 ________________________________________________________________________________________________________________________________
 
 ### Price:
-<img width="1121" height="820" alt="image" src="https://github.com/user-attachments/assets/268b9c2e-7417-4b81-bf2a-b206497346fa" />
+<img width="1113" height="786" alt="Screenshot 2026-01-30 174430" src="https://github.com/user-attachments/assets/957ed344-cb24-46dd-873c-f43dbbac92a2" />
 <img width="1804" height="737" alt="Screenshot 2026-01-30 172854" src="https://github.com/user-attachments/assets/75ba9917-e1dd-45ad-8251-a54f57348c5e" />
 <img width="1853" height="600" alt="Screenshot 2026-01-30 172735" src="https://github.com/user-attachments/assets/fdb2c7bc-fd48-447b-acb6-77bd5ae156ea" />
 
